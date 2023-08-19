@@ -1,17 +1,4 @@
 
-<header>
-    <h1>Muddassir Farooq</h1>
-    <p>Full Stack Developer</p>
-</header>
-
-<style>
-header {
-      background-color: Black;
-      color: white;
-      text-align: center;
-      padding: 20px 0;
-    }
-</style>
 
 <br>
 <div align=":left">I'm <b>Muddassir Farooq</b>, a full-stack developer  working remotely since 2022 🚀</div>  
